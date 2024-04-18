@@ -2,7 +2,7 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
-  </nav>ㄴㅇㄹㄴㅇㄹㄴㅇㄹㄴㅇㄹ
+  </nav>다시 고쳐본다
   <router-view/>
 </template>
 
